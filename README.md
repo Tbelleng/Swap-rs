@@ -19,5 +19,5 @@ NB : Swaping function is not finished for the moment ! Gonna focus on this point
 Of course you have to `cargo update` to get all your dependencies working.
 
 TO DO :
-  - Adding bash script to directly enter Adress and endpoint in a Shell prompt
+  - Add User-friendly ux
   - Swap function
